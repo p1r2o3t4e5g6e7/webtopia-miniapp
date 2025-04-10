@@ -1,5 +1,5 @@
 const { Telegraf } = require('telegraf');
-const bot = new Telegraf(process.env.BOT_TOKEN); // Make sure your BOT_TOKEN is set in Render
+const bot = new Telegraf(process.env.BOT_TOKEN);
 
 // /start command
 bot.start((ctx) => {
