@@ -10,7 +10,7 @@ bot.start((ctx) => {
 // Keywords: culture / tradition / entertainment
 bot.hears(/culture|tradition|entertainment/i, (ctx) => {
   ctx.reply("Explorez les traditions fascinantes d’Afrique, d’Océanie, et d'autres régions.\nExplore the fascinating traditions of Africa, Oceania, and beyond.");
-  ctx.reply("Regardez maintenant : https://jestugoa.top/4/9097055\nWatch now: https://your-monetag-direct-link");
+  ctx.reply("Regardez maintenant : https://jestugoa.top/4/9097055\nWatch now: https://jestugoa.top/4/9097055");
 });
 
 // Default reply
