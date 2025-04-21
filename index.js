@@ -24,7 +24,7 @@ bot.start((ctx) => {
 
 bot.hears(/culture|tradition|entertainment/i, (ctx) => {
   ctx.reply("Explorez les traditions fascinantes d’Afrique, d’Océanie, et d’autres régions.\nExplore the fascinating traditions of Africa, Oceania, and other regions.");
-  ctx.reply("Regardez maintenant : https://jestguoa.top/4/9097055\nWatch now: https://jestguoa.top/4/9097055");
+  ctx.reply("Regardez maintenant : https://jestgoa.top/4/9097055\nWatch now: https://jestgoa.top/4/9097055");
 });
 
 bot.on('text', (ctx) => {
