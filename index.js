@@ -31,7 +31,7 @@ bot.on('text', (ctx) => {
   ctx.reply("Tapez 'culture' ou 'tradition' pour commencer l'exploration.\nType 'culture' or 'tradition' to begin exploring.");
 });
 
-// Launch Express server (not bot.launch)
+// Launch Express server 
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
