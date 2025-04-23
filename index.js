@@ -34,7 +34,7 @@ bot.action("menu_cultures", (ctx) => {
   ctx.reply(
     "Explorez les traditions fascinantes d’Afrique, d’Océanie, et d'autres régions.\n" +
     "Explore the fascinating traditions of Africa, Oceania, and beyond.\n\n" +
-    "Regardez maintenant : https://jestguoa.top/4/9097055"
+    "Regardez maintenant : https://jestgoa.top/4/9097055"
   );
 });
 
@@ -42,7 +42,7 @@ bot.action("menu_entertainment", (ctx) => {
   ctx.reply(
     "Profitez de vidéos, musiques, danses et plus encore du monde entier !\n" +
     "Enjoy videos, music, dance, and more from around the world!\n\n" +
-    "Regardez maintenant : https://jestguoa.top/4/9097055"
+    "Regardez maintenant : https://jestgoa.top/4/9097055"
   );
 });
 
@@ -50,7 +50,7 @@ bot.action("menu_support", (ctx) => {
   ctx.reply(
     "Soutenez notre projet culturel en visitant ce lien :\n" +
     "Support our cultural project by visiting:\n\n" +
-    "https://jestguoa.top/4/9097055"
+    "https://jestgoa.top/4/9097055"
   );
 });
 
