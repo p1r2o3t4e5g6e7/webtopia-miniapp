@@ -29,7 +29,7 @@ bot.start((ctx) => {
   );
 });
 
-// Callback handlers for menu choices
+// Callback handlers for menu cthoices
 bot.action("menu_cultures", (ctx) => {
   ctx.reply(
     "Explorez les traditions fascinantes d’Afrique, d’Océanie, et d'autres régions.\n" +
