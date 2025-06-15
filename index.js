@@ -1,13 +1,14 @@
+
 const express = require('express');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.PORT || 10000; // Use Render's dynamic port
+const PORT = process.env.PORT || 3000;
 
-// Serve static files from the "public" directory
+// Serve static files from 'public' folder
 app.use(express.static(path.join(__dirname, 'public')));
 
-// Serve index.html at root "/"
+// Fallback for root route
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
